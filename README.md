@@ -48,9 +48,3 @@
 🧺 Aprendiendo nuevas herramientas de desarrollo  
 🍪 Construyendo un futuro línea por línea de código  
 
-## 🍪 Actualmente
-
-🤎 Trabajando en proyectos universitarios  
-🧸 Mejorando mis conocimientos en programación  
-🧺 Aprendiendo nuevas herramientas de desarrollo  
-🍪 Construyendo un futuro línea por línea de código  
